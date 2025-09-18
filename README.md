@@ -1,2 +1,6 @@
-# webproject-1
-Its a project based on html and css only about waveriders squirrel school 
+# waverider project
+
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/Rufaisashah/pen/zxvMvQQ](https://codepen.io/Rufaisashah/pen/zxvMvQQ).
+
